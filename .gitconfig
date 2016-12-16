@@ -1,0 +1,7 @@
+[user]
+	name = Alex Tong
+	email = alextong1995@gmail.com
+[core]
+	editor = /usr/bin/vim
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset %C(yellow)%an%d%Creset %s %Cgreen(%cr)%Creset' --date=relative
